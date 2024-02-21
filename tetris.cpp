@@ -8,8 +8,6 @@ int main(int, char**){
     SDL_Window *window = nullptr; 
 
     GameWindowResolutionSetup *opGameWindowResolution = new GameWindowResolutionSetup();
-    cout << opGameWindowResolution->get_y_screen_resolution() << endl; 
-    cout << opGameWindowResolution->get_x_screen_resolution() << endl;
 
     if (SDL_Init(SDL_INIT_VIDEO) < 0)
     {
