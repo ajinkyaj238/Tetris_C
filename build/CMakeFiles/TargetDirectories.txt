@@ -1,0 +1,5 @@
+/home/ajinkya/Documents/Program_Development/Tetris_C/build/CMakeFiles/sdl2_game.dir
+/home/ajinkya/Documents/Program_Development/Tetris_C/build/CMakeFiles/package.dir
+/home/ajinkya/Documents/Program_Development/Tetris_C/build/CMakeFiles/package_source.dir
+/home/ajinkya/Documents/Program_Development/Tetris_C/build/CMakeFiles/edit_cache.dir
+/home/ajinkya/Documents/Program_Development/Tetris_C/build/CMakeFiles/rebuild_cache.dir

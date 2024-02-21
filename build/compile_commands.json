@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ajinkya/Documents/Program_Development/Tetris_C/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/sdl2_game.dir/tetris.cpp.o -c /home/ajinkya/Documents/Program_Development/Tetris_C/tetris.cpp",
+  "file": "/home/ajinkya/Documents/Program_Development/Tetris_C/tetris.cpp",
+  "output": "CMakeFiles/sdl2_game.dir/tetris.cpp.o"
+}
+]
